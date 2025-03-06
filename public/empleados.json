@@ -1,0 +1,23 @@
+[
+    { "nombre": "Juan", "apellido": "Pérez", "area_trabajo": "Recursos Humanos", "jornada_laboral": "Diurna", "salario": 2500 },
+    { "nombre": "María", "apellido": "López", "area_trabajo": "Desarrollo", "jornada_laboral": "Nocturna", "salario": 1800 },
+    { "nombre": "Carlos", "apellido": "Gómez", "area_trabajo": "Marketing", "jornada_laboral": "Mixta", "salario": 2200 },
+    { "nombre": "Ana", "apellido": "Ramírez", "area_trabajo": "Ventas", "jornada_laboral": "Diurna", "salario": 2300 },
+    { "nombre": "Luis", "apellido": "Díaz", "area_trabajo": "IT", "jornada_laboral": "Media Jornada", "salario": 2000 },
+    { "nombre": "Elena", "apellido": "Mendoza", "area_trabajo": "Finanzas", "jornada_laboral": "Nocturna", "salario": 2800 },
+    { "nombre": "Miguel", "apellido": "Fernández", "area_trabajo": "Logística", "jornada_laboral": "Mixta", "salario": 2400 },
+    { "nombre": "Carmen", "apellido": "Torres", "area_trabajo": "Administración", "jornada_laboral": "Media Jornada", "salario": 1900 },
+    { "nombre": "Roberto", "apellido": "Vargas", "area_trabajo": "Recursos Humanos", "jornada_laboral": "Diurna", "salario": 2550 },
+    { "nombre": "Patricia", "apellido": "Reyes", "area_trabajo": "Desarrollo", "jornada_laboral": "Nocturna", "salario": 1750 },
+    { "nombre": "Javier", "apellido": "Castro", "area_trabajo": "Ventas", "jornada_laboral": "Mixta", "salario": 2200 },
+    { "nombre": "Sofía", "apellido": "Gutiérrez", "area_trabajo": "IT", "jornada_laboral": "Diurna", "salario": 2900 },
+    { "nombre": "Fernando", "apellido": "Ortiz", "area_trabajo": "Marketing", "jornada_laboral": "Media Jornada", "salario": 1800 },
+    { "nombre": "Gabriela", "apellido": "Núñez", "area_trabajo": "Administración", "jornada_laboral": "Nocturna", "salario": 2600 },
+    { "nombre": "Alejandro", "apellido": "Herrera", "area_trabajo": "Finanzas", "jornada_laboral": "Mixta", "salario": 2100 },
+    { "nombre": "Monica", "apellido": "Silva", "area_trabajo": "Logística", "jornada_laboral": "Diurna", "salario": 2450 },
+    { "nombre": "Raúl", "apellido": "García", "area_trabajo": "Desarrollo", "jornada_laboral": "Nocturna", "salario": 3000 },
+    { "nombre": "Isabel", "apellido": "Martínez", "area_trabajo": "Recursos Humanos", "jornada_laboral": "Media Jornada", "salario": 1950 },
+    { "nombre": "Andrés", "apellido": "Rojas", "area_trabajo": "Ventas", "jornada_laboral": "Mixta", "salario": 2100 },
+    { "nombre": "Paula", "apellido": "Santos", "area_trabajo": "IT", "jornada_laboral": "Diurna", "salario": 2750 }
+  ]
+  
